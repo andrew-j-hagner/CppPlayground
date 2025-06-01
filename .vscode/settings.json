@@ -2,5 +2,6 @@
     "files.insertFinalNewline": true,
     "files.exclude": {
         "**/.git": false,
-    }
+    },
+    "C_Cpp.default.cppStandard": "c++20"
 }
