@@ -1,0 +1,15 @@
+{
+    "name": "C++ Console App",
+    "image": "mcr.microsoft.com/devcontainers/cpp:latest",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash"
+            },
+            "extensions": [
+                "ms-vscode.cpptools"
+            ]
+        }
+    },
+    "remoteUser": "vscode"
+}
