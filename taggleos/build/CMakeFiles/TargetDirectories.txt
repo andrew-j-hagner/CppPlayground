@@ -1,0 +1,5 @@
+C:/Users/Andrew Hagner/Desktop/Repositories/C++/cpp-console-app/taggleos/build/CMakeFiles/taggleos.dir
+C:/Users/Andrew Hagner/Desktop/Repositories/C++/cpp-console-app/taggleos/build/CMakeFiles/edit_cache.dir
+C:/Users/Andrew Hagner/Desktop/Repositories/C++/cpp-console-app/taggleos/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Andrew Hagner/Desktop/Repositories/C++/cpp-console-app/taggleos/build/CMakeFiles/taggleos_autogen_timestamp_deps.dir
+C:/Users/Andrew Hagner/Desktop/Repositories/C++/cpp-console-app/taggleos/build/CMakeFiles/taggleos_autogen.dir
